@@ -1,0 +1,2 @@
+timestamp=2024-06-16T22:19:30.162098571+05:30 level=error message="unable to bind json" caller=/home/jothish/golang/code_assignment/restApi/controllers/controllers.go:62 
+timestamp=2024-06-16T22:20:53.035048559+05:30 level=fatal message="unable to create databse" caller=/home/jothish/golang/code_assignment/restApi/db/db.go:32 
